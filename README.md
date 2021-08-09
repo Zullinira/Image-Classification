@@ -12,6 +12,6 @@
   
 ### 🌟 Output :
   - The image that successfully predicts rock or scissors or paper
- - Produce high-accuracy models (96%)
+ - Produce high-accuracy models (97%)
   
  
